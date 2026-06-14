@@ -1,0 +1,35 @@
+{
+  "title": "Wend Puzzle Tips and Strategies",
+  "source": "https://wendanswertoday.me/",
+  "daily_answers": "https://wendanswertoday.me/",
+  "tips": [
+    {
+      "id": 1,
+      "tip": "Break down categories first",
+      "description": "Identify the overarching theme early"
+    },
+    {
+      "id": 2,
+      "tip": "Expand your vocabulary daily",
+      "description": "Learn new words each day"
+    },
+    {
+      "id": 3,
+      "tip": "Practice pattern recognition",
+      "description": "Train yourself to recognize patterns"
+    },
+    {
+      "id": 4,
+      "tip": "Time yourself",
+      "description": "Gradually reduce your solve time"
+    },
+    {
+      "id": 5,
+      "tip": "Learn from mistakes",
+      "description": "Review errors and understand the logic"
+    }
+  ],
+  "resources": [
+    "https://wendanswertoday.me/"
+  ]
+}
